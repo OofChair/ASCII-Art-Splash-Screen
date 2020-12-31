@@ -1,6 +1,6 @@
               _,,,_
             .'     `'.
-           /     ____ \      Damn NullPointerException again...
+           /     ____ \      E
            |  .-'_  _\/    /
            \_/   a  a|    /
            (,`     \ |         .----.
